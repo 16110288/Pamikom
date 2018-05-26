@@ -1,0 +1,2 @@
+# Pamikom
+project pertama github
